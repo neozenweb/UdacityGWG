@@ -220,10 +220,10 @@ html, body { height: 100% }
 }
 .footercontainer
 {
-    display: -webkit-flex; /* Safari */
+    display: flex; /* Safari */
 	-webkit-flex-direction:row; /* Safari 6.1+ */
 	flex-direction:row;
-	display: flex;
+	-webkit-flex: flex;
 	 padding-top:10px;
 	 justify-content:space-evenly;
  	background-color:#FFFFFF;
