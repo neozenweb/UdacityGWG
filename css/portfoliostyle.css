@@ -229,10 +229,7 @@ html, body { height: 100% }
  	background-color:#FFFFFF;
 	flex-wrap:nowrap;
 	-webkit-flex-wrap:nowrap;
-	 width:50%;
-   position:absolute;
-   top:100%;
-   color:black;
+	 color:black;
    font-weight:bold;
     
  }
