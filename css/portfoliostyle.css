@@ -19,7 +19,7 @@ html, body { height: 100% }
 		    .socialcontainer{width:100%;order:1;font-size:2em;}
 		    .maincontainer{width:100%;height:7em !important;height:50%;order:2;margin-right:5px;padding-left:30%;padding-right:30%;}
 		    .carouselcontainer{order:3;width:auto;height:3em !important;height:10%;justify-content:space-between;}
-		    .footercontainer{width:50%;order:4;font-size:5px;}
+		    .footercontainer{order:4;font-size:5px;}
          	.socimg{padding-left:0%;padding-right:0%;padding-top:5%;padding-bottom:5%;}
 		
 		
@@ -32,7 +32,7 @@ html, body { height: 100% }
       .socialcontainer{width:100%;order:1;}
       .maincontainer{width:100%;height:15em !important;height:50%;order:2;padding-left:30%;padding-right:30%;}
       .carouselcontainer{order:3;width:auto;height:15%;justify-content:space-between;}
-      .footercontainer{width:50%;order:4;font-size:5px;}
+      .footercontainer{order:4;font-size:5px;}
       .headertext{padding-top:4%;}
 	  .tagtext{padding-top:4%;}
       .socimg{padding-left:20%;padding-right:20%;padding-top:5%;padding-down:5%;}
@@ -42,7 +42,7 @@ html, body { height: 100% }
    
    @media screen and (min-width:800px){
       .socialcontainer{justify-content:center;}
-	  .footercontainer{width:50%;order:4;font-size:10px;}
+	  .footercontainer{order:4;font-size:10px;}
    }
    
    
@@ -54,7 +54,7 @@ html, body { height: 100% }
       .socialcontainer{width:100%;order:1;justify-content:center;}
       .maincontainer{width:100%;height:15em !important;height:50%;order:2;padding-left:30%;padding-right:30%;}
       .carouselcontainer{order:3;width:90%;height:15%;justify-content:space-between;}
-      .footercontainer{width:50%;order:4;font-size:10px;}
+      .footercontainer{order:4;font-size:10px;}
       .headertext{padding-top:4%;}
 	  .tagtext{padding-top:4%;}
       .socimg{padding-left:20%;padding-right:20%;padding-top:5%;padding-down:5%;}
@@ -225,7 +225,7 @@ html, body { height: 100% }
 	flex-direction:row;
 	-webkit-flex: flex;
 	 padding-top:10px;
-	 justify-content:space-evenly;
+	 justify-content:center;
  	background-color:#FFFFFF;
 	flex-wrap:nowrap;
 	-webkit-flex-wrap:nowrap;
