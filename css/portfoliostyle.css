@@ -377,6 +377,7 @@ html, body {
 .cardimg {
 	border: 1px solid black;
 	height: 100%;
+    margin-bottom: 5px;
 }
 .socimg {
 	padding-top: 20px;
